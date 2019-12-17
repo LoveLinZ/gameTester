@@ -1,9 +1,9 @@
-from GameKOF.Cards.Card import *
-from GameKOF.Heros.Hero import *
-from GameKOF.Heros.HeroHp import *
-from GameKOF.Kungfu.Ability import *
-from GameKOF.Kungfu.Skill import *
-from GameKOF.Kungfu.SkillPower import *
+from Cards.Card import *
+from Heros.Hero import *
+from Heros.HeroHp import *
+from Kungfu.Ability import *
+from Kungfu.Skill import *
+from Kungfu.SkillPower import *
 
 def oneGame():
     ##拿出一副牌
